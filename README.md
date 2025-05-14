@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi 👋, I'm [Lukáš Kaplan](https://lkaplan.cz)
 
+DevOps engineer focused on automation, infrastructure as code, and self-hosted tools.
+
+- 💡 Ansible · Docker · GitLab CI · Traefik · Portainer
+- 🔭 Currently exploring:
+  - Kubernetes, Longhorn, MetalLB, Helm
+  - Keycloak and SSO
 <!--
 **lukaskaplan/lukaskaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
