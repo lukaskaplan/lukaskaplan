@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Lukáš Kaplan](https://lkaplan.cz)
+## Hi 👋, I'm [Lukas Kaplan](https://lkaplan.cz)
 
 DevOps engineer focused on automation, infrastructure as code, and self-hosted tools.
 
