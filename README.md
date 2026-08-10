@@ -2,10 +2,10 @@
 
 DevOps engineer focused on automation, infrastructure as code, and self-hosted tools.
 
-- 💡 Ansible · Docker · GitLab CI · Traefik · Portainer
+- 💡 Ansible · Docker · GitLab · CI/CD 
 - 🔭 Currently exploring:
-  - Kubernetes, Longhorn, MetalLB, Helm
-  - Keycloak and SSO
+  - Kubernetes, Helm, ArgoCD
+  - Prometheus, Mimir, Grafana, Alloy, Loki
 <!--
 **lukaskaplan/lukaskaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
